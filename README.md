@@ -42,7 +42,3 @@ Below are screenshots of the different pages in the project:
 5. Run `php artisan key:generate`  
 6. Run `php artisan serve`  
 7. Open your browser and go to `http://127.0.0.1:8000`
-
-## Notes
-This project is for educational purposes only and focuses on the basic structure
-and functionality of a Laravel application.

@@ -20,13 +20,13 @@ Each page is handled by its own controller and rendered using Blade templates.
 Below are screenshots of the different pages in the project:
 
 - Main Portfolio Page  
-(Insert screenshot here)
+<img width="1881" height="1005" alt="Screenshot 2026-02-08 160548" src="https://github.com/user-attachments/assets/5c7343af-af83-4431-9062-82678a613688" />
 
 - About Me Page  
-(Insert screenshot here)
+<img width="1863" height="998" alt="Screenshot 2026-02-08 160600" src="https://github.com/user-attachments/assets/4851ab4e-fecd-4d9c-99be-e606f6f3c3b3" />
 
 - Hobbies Page  
-(Insert screenshot here)
+<img width="1882" height="1000" alt="Screenshot 2026-02-08 160612" src="https://github.com/user-attachments/assets/68c0d716-fcc8-4454-94fd-f5a31917dc9d" />
 
 ## Technologies Used
 - Laravel
